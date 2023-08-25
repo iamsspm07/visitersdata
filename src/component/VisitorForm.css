@@ -1,0 +1,38 @@
+/* VisitorForm.css */
+
+.form-container {
+     border: 1px solid #ccc;
+     padding: 20px;
+     border-radius: 8px;
+     width: 400px;
+     margin: 0 auto;
+     background-color: #f9f9f9;
+   }
+   
+   .form-container h2 {
+     margin-bottom: 20px;
+     text-align: center;
+   }
+   
+   .form-container form label {
+     display: block;
+     margin-bottom: 10px;
+   }
+   
+   .form-container form input {
+     width: 100%;
+     padding: 8px;
+     margin-bottom: 10px;
+     border: 1px solid #ccc;
+     border-radius: 4px;
+   }
+   
+   .form-container form button {
+     background-color: #007bff;
+     color: white;
+     border: none;
+     padding: 10px 20px;
+     border-radius: 4px;
+     cursor: pointer;
+   }
+   
